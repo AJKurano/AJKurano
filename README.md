@@ -8,7 +8,7 @@
    You can use this for making a review or reaction video but you have to give me the original credit in the description. Have Fun!
     <a href="AJKurano.html">
     <button> click here to open the AJ Kurano Official site!!! </button>
-     <img src="756aff6884c08b79ecd05509da1ded17_html_836938c7.png">
+     <img src="756aff6884c08b79ecd05509da1ded17_html_fe2d4890.png">
     </a>
   </body>
   </html>
